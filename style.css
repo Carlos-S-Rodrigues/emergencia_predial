@@ -32,6 +32,7 @@ img{
 
 .text-wrapper h2{
   padding-bottom: 1rem;
+  margin: 0  10rem;
 }
 
 .button-wrapper{
@@ -65,6 +66,11 @@ h1{
 @media only screen and (max-width: 468px) {
   img{
     width: 14rem;
+  }
+
+  .text-wrapper h2{
+    margin: 0.5rem;
+    
   }
 
   .button-wrapper{
